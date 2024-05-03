@@ -1,0 +1,1 @@
+This to-do list application offers a basic yet functional way for users to manage their tasks through the command line. It demonstrates fundamental concepts of user interaction, data management, and control flow in Python.
